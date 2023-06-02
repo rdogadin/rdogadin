@@ -1,13 +1,13 @@
-# Roman Dogadin | Welcome to my GitHub
+## Roman Dogadin | Welcome to my GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rdogadin&theme=prussian&hide_border=true&mode=daily)](https://git.io/streak-stats)
 
-## Connect with me
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/romandogadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romandogadin" height="30" width="40" /></a>
 <a href="https://medium.com/@romandogadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@romandogadin" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+### Languages and Tools
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -25,3 +25,7 @@
   </a>
      
 </p>
+
+### Latest Blog Posts
+- [How to Bring Interactivity to Your Excel Dashboard](https://medium.com/@romandogadin/how-to-bring-interactivity-to-your-excel-dashboard-3b5691490c6b)
+- [How to Run PageRank in Arangodb](https://medium.com/@romandogadin/how-to-use-pagerank-in-arangodb-17fa1488620f)
